@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local virtual environment
+venv/
+.venv/
+env/
+.env
+
+# Git files
+.git/
+.gitignore
+
+# Docker config
+Dockerfile
+.dockerignore
+
+# Notebooks and other data/training assets
+training.ipynb
+test_cases.py
+train_model.py
+Structure.md
+
+# Node/JS scripts used for data dictionary pre-processing
+*.js
+node_modules/
+package*.json
