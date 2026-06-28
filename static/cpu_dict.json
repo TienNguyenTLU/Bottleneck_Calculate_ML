@@ -102,7 +102,7 @@
   "Intel Core i7-14700KF": {
     "clock_speed": 3.4,
     "single_bench_score": 4469,
-    "multi_bench_score": 52096
+    "multi_bench_score": 52069
   },
   "Intel Core i5-6402P @ 2.80GHz": {
     "clock_speed": 2.8,
@@ -142,7 +142,7 @@
   "AMD Ryzen 5 9600": {
     "clock_speed": 3.8,
     "single_bench_score": 4375,
-    "multi_bench_score": 29284
+    "multi_bench_score": 29289
   },
   "AMD A8-6600K APU": {
     "clock_speed": 3.9,
@@ -217,7 +217,7 @@
   "AMD Ryzen 5 9500F": {
     "clock_speed": 3.8,
     "single_bench_score": 4261,
-    "multi_bench_score": 28376
+    "multi_bench_score": 28373
   },
   "Intel Core i9-9900T @ 2.10GHz": {
     "clock_speed": 2.1,
@@ -356,8 +356,8 @@
   },
   "Intel Core i7-14700F": {
     "clock_speed": 2.1,
-    "single_bench_score": 4258,
-    "multi_bench_score": 41410
+    "single_bench_score": 4259,
+    "multi_bench_score": 41391
   },
   "Intel Core i5-4690T @ 2.50GHz": {
     "clock_speed": 2.5,
@@ -436,8 +436,8 @@
   },
   "Intel Core Ultra 7 265K": {
     "clock_speed": 3.9,
-    "single_bench_score": 4929,
-    "multi_bench_score": 58678
+    "single_bench_score": 4928,
+    "multi_bench_score": 58648
   },
   "Intel Core i3-4330TE @ 2.40GHz": {
     "clock_speed": 2.4,
@@ -476,8 +476,8 @@
   },
   "Intel Core i7-13700KF": {
     "clock_speed": 3.4,
-    "single_bench_score": 4331,
-    "multi_bench_score": 45572
+    "single_bench_score": 4330,
+    "multi_bench_score": 45559
   },
   "AMD Ryzen 5 5500X3D": {
     "clock_speed": 3,
@@ -506,13 +506,13 @@
   },
   "Intel Core i5-13490F": {
     "clock_speed": 2.5,
-    "single_bench_score": 3858,
-    "multi_bench_score": 26705
+    "single_bench_score": 3860,
+    "multi_bench_score": 26744
   },
   "Intel Core i9-13900KS": {
     "clock_speed": 3.2,
     "single_bench_score": 4716,
-    "multi_bench_score": 60486
+    "multi_bench_score": 60477
   },
   "Intel Core i5-14400T": {
     "clock_speed": 1.5,
@@ -546,8 +546,8 @@
   },
   "Intel Core Ultra 5 250K Plus": {
     "clock_speed": 4.2,
-    "single_bench_score": 4858,
-    "multi_bench_score": 52378
+    "single_bench_score": 4830,
+    "multi_bench_score": 52363
   },
   "AMD Ryzen 5 PRO 4400G": {
     "clock_speed": 3.7,
@@ -556,8 +556,8 @@
   },
   "AMD Ryzen 5 7500X3D": {
     "clock_speed": 4,
-    "single_bench_score": 3499,
-    "multi_bench_score": 25107
+    "single_bench_score": 3502,
+    "multi_bench_score": 25132
   },
   "AMD Ryzen 9 3900": {
     "clock_speed": 3.1,
@@ -576,8 +576,8 @@
   },
   "Intel Core i9-13900": {
     "clock_speed": 2,
-    "single_bench_score": 4303,
-    "multi_bench_score": 44873
+    "single_bench_score": 4299,
+    "multi_bench_score": 44835
   },
   "AMD Athlon II X4 631 Quad-Core": {
     "clock_speed": 2.6,
@@ -586,8 +586,8 @@
   },
   "AMD Ryzen Threadripper 9980X": {
     "clock_speed": 3.2,
-    "single_bench_score": 4526,
-    "multi_bench_score": 143003
+    "single_bench_score": 4532,
+    "multi_bench_score": 142812
   },
   "Intel Core i5-11400 @ 2.60GHz": {
     "clock_speed": 2.6,
@@ -612,7 +612,7 @@
   "Intel Core i5-13600KF": {
     "clock_speed": 3.5,
     "single_bench_score": 4114,
-    "multi_bench_score": 37371
+    "multi_bench_score": 37373
   },
   "AMD Ryzen 5 PRO 2400GE": {
     "clock_speed": 3.2,
@@ -621,8 +621,8 @@
   },
   "Intel Core i9-14900KS": {
     "clock_speed": 3.2,
-    "single_bench_score": 4817,
-    "multi_bench_score": 60083
+    "single_bench_score": 4813,
+    "multi_bench_score": 60045
   },
   "Intel Pentium E6500 @ 2.93GHz": {
     "clock_speed": 2.93,
@@ -646,7 +646,7 @@
   },
   "AMD Ryzen Threadripper 9960X 24-Cores": {
     "clock_speed": 4.2,
-    "single_bench_score": 4575,
+    "single_bench_score": 4576,
     "multi_bench_score": 92579
   },
   "AMD Ryzen Threadripper 1920": {
@@ -751,8 +751,8 @@
   },
   "AMD Ryzen 7 PRO 9745": {
     "clock_speed": 3.8,
-    "single_bench_score": 4609,
-    "multi_bench_score": 37082
+    "single_bench_score": 4624,
+    "multi_bench_score": 38201
   },
   "AMD Athlon II X2 240": {
     "clock_speed": 2.8,
@@ -1017,7 +1017,7 @@
   "AMD Ryzen 5 8600G": {
     "clock_speed": 4.3,
     "single_bench_score": 3875,
-    "multi_bench_score": 25197
+    "multi_bench_score": 25199
   },
   "AMD Ryzen 5 3600": {
     "clock_speed": 3.6,
@@ -1066,8 +1066,8 @@
   },
   "Intel Core i9-12900KF": {
     "clock_speed": 3.2,
-    "single_bench_score": 4123,
-    "multi_bench_score": 40589
+    "single_bench_score": 4121,
+    "multi_bench_score": 40548
   },
   "Intel Pentium Gold G6500 @ 4.10GHz": {
     "clock_speed": 4.1,
@@ -1192,12 +1192,12 @@
   "AMD Ryzen 5 7600": {
     "clock_speed": 3.8,
     "single_bench_score": 3908,
-    "multi_bench_score": 26976
+    "multi_bench_score": 26977
   },
   "AMD Ryzen 9 7950X": {
     "clock_speed": 4.5,
     "single_bench_score": 4253,
-    "multi_bench_score": 62183
+    "multi_bench_score": 62177
   },
   "Intel Core i5-4210Y @ 1.50GHz": {
     "clock_speed": 1.5,
@@ -1306,8 +1306,8 @@
   },
   "Intel Core i5-14400F": {
     "clock_speed": 2.5,
-    "single_bench_score": 3703,
-    "multi_bench_score": 25525
+    "single_bench_score": 3702,
+    "multi_bench_score": 25507
   },
   "Intel Pentium G3420T @ 2.70GHz": {
     "clock_speed": 2.7,
@@ -1371,8 +1371,8 @@
   },
   "AMD Ryzen 7 PRO 8700G": {
     "clock_speed": 4.2,
-    "single_bench_score": 3956,
-    "multi_bench_score": 31143
+    "single_bench_score": 3957,
+    "multi_bench_score": 31150
   },
   "AMD Phenom II X4 B25": {
     "clock_speed": 2.7,
@@ -1407,7 +1407,7 @@
   "Intel Core i9-13900F": {
     "clock_speed": 2,
     "single_bench_score": 4400,
-    "multi_bench_score": 48391
+    "multi_bench_score": 48365
   },
   "AMD E2-3200 APU": {
     "clock_speed": 2.4,
@@ -1476,8 +1476,8 @@
   },
   "Intel Core i9-14900F": {
     "clock_speed": 2,
-    "single_bench_score": 4509,
-    "multi_bench_score": 46645
+    "single_bench_score": 4508,
+    "multi_bench_score": 46630
   },
   "AMD Phenom X4 Quad-Core GP-9730": {
     "clock_speed": 2.4,
@@ -1512,7 +1512,7 @@
   "Intel Core i7-12700": {
     "clock_speed": 2.1,
     "single_bench_score": 3846,
-    "multi_bench_score": 29907
+    "multi_bench_score": 29902
   },
   "AMD Athlon X4 860K": {
     "clock_speed": 3.7,
@@ -1532,7 +1532,7 @@
   "Intel Core i9-12900K": {
     "clock_speed": 3.2,
     "single_bench_score": 4127,
-    "multi_bench_score": 41130
+    "multi_bench_score": 41129
   },
   "Intel Core i5-7600 @ 3.50GHz": {
     "clock_speed": 3.5,
@@ -1571,8 +1571,8 @@
   },
   "Intel Core Ultra 7 270K Plus": {
     "clock_speed": 3.7,
-    "single_bench_score": 5078,
-    "multi_bench_score": 68772
+    "single_bench_score": 5075,
+    "multi_bench_score": 68747
   },
   "Intel Core2 Quad Q9400 @ 2.66GHz": {
     "clock_speed": 2.66,
@@ -1641,8 +1641,8 @@
   },
   "AMD Ryzen 9 9900X3D": {
     "clock_speed": 4.4,
-    "single_bench_score": 4642,
-    "multi_bench_score": 56180
+    "single_bench_score": 4640,
+    "multi_bench_score": 56174
   },
   "Intel Core i5-11600 @ 2.80GHz": {
     "clock_speed": 2.8,
@@ -1711,8 +1711,8 @@
   },
   "AMD Ryzen 9 9950X3D": {
     "clock_speed": 4.3,
-    "single_bench_score": 4742,
-    "multi_bench_score": 70174
+    "single_bench_score": 4741,
+    "multi_bench_score": 70149
   },
   "Intel Core i9-10900KF @ 3.70GHz": {
     "clock_speed": 3.7,
@@ -1787,7 +1787,7 @@
   "AMD Ryzen 7 7700X": {
     "clock_speed": 4.5,
     "single_bench_score": 4178,
-    "multi_bench_score": 35533
+    "multi_bench_score": 35526
   },
   "AMD Phenom II X2 B55": {
     "clock_speed": 3,
@@ -1857,7 +1857,7 @@
   "AMD Ryzen 7 5700X": {
     "clock_speed": 3.4,
     "single_bench_score": 3387,
-    "multi_bench_score": 26584
+    "multi_bench_score": 26582
   },
   "AMD Athlon II X2 260": {
     "clock_speed": 3.2,
@@ -1992,7 +1992,7 @@
   "AMD Ryzen 5 7600X": {
     "clock_speed": 4.7,
     "single_bench_score": 4131,
-    "multi_bench_score": 28293
+    "multi_bench_score": 28292
   },
   "Intel Core i5-3450 @ 3.10GHz": {
     "clock_speed": 3.1,
@@ -2011,8 +2011,8 @@
   },
   "Intel Core Ultra 5 235": {
     "clock_speed": 3.4,
-    "single_bench_score": 4517,
-    "multi_bench_score": 40034
+    "single_bench_score": 4528,
+    "multi_bench_score": 38105
   },
   "Intel Core i7-10700 @ 2.90GHz": {
     "clock_speed": 2.9,
@@ -2046,8 +2046,8 @@
   },
   "Intel Core i5-12600K": {
     "clock_speed": 3.7,
-    "single_bench_score": 3919,
-    "multi_bench_score": 27536
+    "single_bench_score": 3918,
+    "multi_bench_score": 27525
   },
   "Intel Core i5-4570T @ 2.90GHz": {
     "clock_speed": 2.9,
@@ -2067,7 +2067,7 @@
   "AMD Ryzen 9 5950X": {
     "clock_speed": 3.4,
     "single_bench_score": 3476,
-    "multi_bench_score": 45291
+    "multi_bench_score": 45290
   },
   "Intel Core i7-4770S @ 3.10GHz": {
     "clock_speed": 3.1,
@@ -2082,7 +2082,7 @@
   "Intel Core i5-14400": {
     "clock_speed": 2.5,
     "single_bench_score": 3737,
-    "multi_bench_score": 25126
+    "multi_bench_score": 25123
   },
   "Intel Celeron G1630 @ 2.80GHz": {
     "clock_speed": 2.8,
@@ -2132,7 +2132,7 @@
   "Intel Core i9-11900K @ 3.50GHz": {
     "clock_speed": 3.5,
     "single_bench_score": 3503,
-    "multi_bench_score": 24946
+    "multi_bench_score": 24947
   },
   "AMD A8-7650K": {
     "clock_speed": 3.3,
@@ -2181,8 +2181,8 @@
   },
   "AMD Ryzen 7 250": {
     "clock_speed": 3.3,
-    "single_bench_score": 3710,
-    "multi_bench_score": 25331
+    "single_bench_score": 3699,
+    "multi_bench_score": 25290
   },
   "Intel Celeron J4115 @ 1.80GHz": {
     "clock_speed": 1.8,
@@ -2256,13 +2256,13 @@
   },
   "Intel Core i9-14900": {
     "clock_speed": 2,
-    "single_bench_score": 4332,
-    "multi_bench_score": 44801
+    "single_bench_score": 4331,
+    "multi_bench_score": 44814
   },
   "Intel Core i7-13700K": {
     "clock_speed": 3.4,
     "single_bench_score": 4328,
-    "multi_bench_score": 45686
+    "multi_bench_score": 45683
   },
   "AMD A8-7500": {
     "clock_speed": 3,
@@ -2282,7 +2282,7 @@
   "Intel Core i9-13900KF": {
     "clock_speed": 3,
     "single_bench_score": 4581,
-    "multi_bench_score": 57542
+    "multi_bench_score": 57520
   },
   "Intel Core2 Duo E6600 @ 2.40GHz": {
     "clock_speed": 2.4,
@@ -2322,7 +2322,7 @@
   "AMD Ryzen 7 7700": {
     "clock_speed": 3.8,
     "single_bench_score": 4053,
-    "multi_bench_score": 34359
+    "multi_bench_score": 34361
   },
   "Intel Core i5-12500T": {
     "clock_speed": 2,
@@ -2336,13 +2336,13 @@
   },
   "Intel Core Ultra 5 245KF": {
     "clock_speed": 4.2,
-    "single_bench_score": 4722,
-    "multi_bench_score": 43168
+    "single_bench_score": 4720,
+    "multi_bench_score": 43158
   },
   "Intel Core Ultra 7 265T": {
     "clock_speed": 1.5,
-    "single_bench_score": 4440,
-    "multi_bench_score": 38148
+    "single_bench_score": 4408,
+    "multi_bench_score": 37669
   },
   "Intel Core i5-2390T @ 2.70GHz": {
     "clock_speed": 2.7,
@@ -2366,8 +2366,8 @@
   },
   "Intel Core i7-13700T": {
     "clock_speed": 1.4,
-    "single_bench_score": 3804,
-    "multi_bench_score": 27599
+    "single_bench_score": 3805,
+    "multi_bench_score": 27526
   },
   "Intel Core i5-3340S @ 2.80GHz": {
     "clock_speed": 2.8,
@@ -2411,8 +2411,8 @@
   },
   "Intel Core Ultra 5 245T": {
     "clock_speed": 2.2,
-    "single_bench_score": 4344,
-    "multi_bench_score": 30752
+    "single_bench_score": 4356,
+    "multi_bench_score": 30824
   },
   "Intel Celeron G1820TE @ 2.20GHz": {
     "clock_speed": 2.2,
@@ -2591,8 +2591,8 @@
   },
   "Intel Core i9-13900K": {
     "clock_speed": 3,
-    "single_bench_score": 4597,
-    "multi_bench_score": 58171
+    "single_bench_score": 4598,
+    "multi_bench_score": 58160
   },
   "AMD Athlon II X2 220": {
     "clock_speed": 2.8,
@@ -2707,12 +2707,12 @@
   "AMD Ryzen 9 9950X": {
     "clock_speed": 4.3,
     "single_bench_score": 4729,
-    "multi_bench_score": 65759
+    "multi_bench_score": 65754
   },
   "Intel Core i9-11900KF @ 3.50GHz": {
     "clock_speed": 3.5,
     "single_bench_score": 3517,
-    "multi_bench_score": 24528
+    "multi_bench_score": 24517
   },
   "AMD Athlon II X2 250": {
     "clock_speed": 3,
@@ -2776,8 +2776,8 @@
   },
   "AMD Ryzen 7 5700G": {
     "clock_speed": 3.8,
-    "single_bench_score": 3283,
-    "multi_bench_score": 24268
+    "single_bench_score": 3282,
+    "multi_bench_score": 24256
   },
   "Intel Pentium 4 3.00GHz": {
     "clock_speed": 3,
@@ -2791,8 +2791,8 @@
   },
   "Intel Core Ultra 7 265": {
     "clock_speed": 2.4,
-    "single_bench_score": 4694,
-    "multi_bench_score": 49734
+    "single_bench_score": 4692,
+    "multi_bench_score": 49730
   },
   "Intel Core i9-9900 @ 3.10GHz": {
     "clock_speed": 3.1,
@@ -2801,8 +2801,8 @@
   },
   "AMD Ryzen 7 5800X": {
     "clock_speed": 3.8,
-    "single_bench_score": 3449,
-    "multi_bench_score": 27683
+    "single_bench_score": 3448,
+    "multi_bench_score": 27678
   },
   "Intel Pentium Silver J5040 @ 2.00GHz": {
     "clock_speed": 2,
@@ -2861,8 +2861,8 @@
   },
   "Intel Core Ultra 5 245K": {
     "clock_speed": 4.2,
-    "single_bench_score": 4716,
-    "multi_bench_score": 43142
+    "single_bench_score": 4717,
+    "multi_bench_score": 43126
   },
   "AMD Ryzen 5 5600XT": {
     "clock_speed": 3.7,
@@ -2892,7 +2892,7 @@
   "AMD Ryzen 7 5800X3D": {
     "clock_speed": 3.4,
     "single_bench_score": 3234,
-    "multi_bench_score": 28304
+    "multi_bench_score": 28300
   },
   "AMD Phenom 9550 Quad-Core": {
     "clock_speed": 2.2,
@@ -2922,7 +2922,7 @@
   "AMD Ryzen Threadripper 7980X": {
     "clock_speed": 3.2,
     "single_bench_score": 4024,
-    "multi_bench_score": 135642
+    "multi_bench_score": 135650
   },
   "AMD A10-9700": {
     "clock_speed": 3.5,
@@ -2932,12 +2932,12 @@
   "AMD Ryzen 9 5900X": {
     "clock_speed": 3.7,
     "single_bench_score": 3465,
-    "multi_bench_score": 38912
+    "multi_bench_score": 38906
   },
   "Intel Core i5-13600T": {
     "clock_speed": 1.8,
-    "single_bench_score": 3780,
-    "multi_bench_score": 27951
+    "single_bench_score": 3782,
+    "multi_bench_score": 27873
   },
   "AMD Ryzen 5 3400GE": {
     "clock_speed": 3.3,
@@ -2957,7 +2957,7 @@
   "Intel Core i9-14900K": {
     "clock_speed": 3.2,
     "single_bench_score": 4690,
-    "multi_bench_score": 58332
+    "multi_bench_score": 58319
   },
   "Intel Core i5-4300Y @ 1.60GHz": {
     "clock_speed": 1.6,
@@ -2971,8 +2971,8 @@
   },
   "AMD Ryzen 7 9850X3D": {
     "clock_speed": 4.7,
-    "single_bench_score": 4708,
-    "multi_bench_score": 41352
+    "single_bench_score": 4706,
+    "multi_bench_score": 41360
   },
   "AMD Ryzen 5 4500": {
     "clock_speed": 3.6,
@@ -3017,7 +3017,7 @@
   "AMD Ryzen Threadripper 7960X": {
     "clock_speed": 4.2,
     "single_bench_score": 4123,
-    "multi_bench_score": 83410
+    "multi_bench_score": 83409
   },
   "AMD Ryzen 5 5600G": {
     "clock_speed": 3.9,
@@ -3096,8 +3096,8 @@
   },
   "Intel Core Ultra 7 265F": {
     "clock_speed": 2.4,
-    "single_bench_score": 4753,
-    "multi_bench_score": 49506
+    "single_bench_score": 4744,
+    "multi_bench_score": 49412
   },
   "Intel Celeron G5920 @ 3.50GHz": {
     "clock_speed": 3.5,
@@ -3116,8 +3116,8 @@
   },
   "Intel Core i5-14490F": {
     "clock_speed": 2.8,
-    "single_bench_score": 3930,
-    "multi_bench_score": 26545
+    "single_bench_score": 3941,
+    "multi_bench_score": 26831
   },
   "Intel Celeron J4005 @ 2.00GHz": {
     "clock_speed": 2,
@@ -3256,8 +3256,8 @@
   },
   "AMD Ryzen 9 7950X3D": {
     "clock_speed": 4.2,
-    "single_bench_score": 4145,
-    "multi_bench_score": 62318
+    "single_bench_score": 4146,
+    "multi_bench_score": 62325
   },
   "Intel Core i5-2500 @ 3.30GHz": {
     "clock_speed": 3.3,
@@ -3371,8 +3371,8 @@
   },
   "AMD Ryzen 9 9950X3D2": {
     "clock_speed": 4.3,
-    "single_bench_score": 4707,
-    "multi_bench_score": 72627
+    "single_bench_score": 4686,
+    "multi_bench_score": 72400
   },
   "Intel Core i5-6400T @ 2.20GHz": {
     "clock_speed": 2.2,
@@ -3386,8 +3386,8 @@
   },
   "Intel Core Ultra 5 225T": {
     "clock_speed": 2.5,
-    "single_bench_score": 4244,
-    "multi_bench_score": 25621
+    "single_bench_score": 4249,
+    "multi_bench_score": 25652
   },
   "AMD A10 PRO-7800B APU": {
     "clock_speed": 3.5,
@@ -3501,8 +3501,8 @@
   },
   "AMD Ryzen 7 9700X": {
     "clock_speed": 3.8,
-    "single_bench_score": 4648,
-    "multi_bench_score": 37049
+    "single_bench_score": 4647,
+    "multi_bench_score": 37027
   },
   "Intel Pentium E6600 @ 3.06GHz": {
     "clock_speed": 3.06,
@@ -3602,7 +3602,7 @@
   "AMD Ryzen 5 7500F": {
     "clock_speed": 3.7,
     "single_bench_score": 3825,
-    "multi_bench_score": 26555
+    "multi_bench_score": 26547
   },
   "Intel Core i3-2130 @ 3.40GHz": {
     "clock_speed": 3.4,
@@ -3797,17 +3797,17 @@
   "AMD Ryzen 9 7900X": {
     "clock_speed": 4.7,
     "single_bench_score": 4228,
-    "multi_bench_score": 51265
+    "multi_bench_score": 51261
   },
   "Intel Core Ultra 5 235T": {
     "clock_speed": 2.2,
     "single_bench_score": 4379,
-    "multi_bench_score": 31431
+    "multi_bench_score": 31422
   },
   "AMD Ryzen 9 5900": {
     "clock_speed": 3,
-    "single_bench_score": 3434,
-    "multi_bench_score": 33972
+    "single_bench_score": 3433,
+    "multi_bench_score": 33961
   },
   "Intel Core2 Duo E6400 @ 2.13GHz": {
     "clock_speed": 2.13,
@@ -3816,8 +3816,8 @@
   },
   "Intel Core Ultra 9 285": {
     "clock_speed": 2.5,
-    "single_bench_score": 4900,
-    "multi_bench_score": 57545
+    "single_bench_score": 4904,
+    "multi_bench_score": 57601
   },
   "AMD Ryzen 7 3800XT": {
     "clock_speed": 3.9,
@@ -3846,8 +3846,8 @@
   },
   "AMD RYZEN AI MAX+ 388": {
     "clock_speed": 3.6,
-    "single_bench_score": 4184,
-    "multi_bench_score": 32709
+    "single_bench_score": 4206,
+    "multi_bench_score": 33347
   },
   "Intel Core i5-4590T @ 2.00GHz": {
     "clock_speed": 2,
@@ -3932,7 +3932,7 @@
   "AMD Ryzen 7 PRO 8700GE": {
     "clock_speed": 3.6,
     "single_bench_score": 3862,
-    "multi_bench_score": 28282
+    "multi_bench_score": 28268
   },
   "Intel Atom 330 @ 1.60GHz": {
     "clock_speed": 1.6,
@@ -4026,8 +4026,8 @@
   },
   "AMD Ryzen 5 7600X3D": {
     "clock_speed": 4.1,
-    "single_bench_score": 3604,
-    "multi_bench_score": 25836
+    "single_bench_score": 3605,
+    "multi_bench_score": 25850
   },
   "Intel Core i5-4302Y @ 1.60GHz": {
     "clock_speed": 1.6,
@@ -4082,7 +4082,7 @@
   "AMD Ryzen 9 7900X3D": {
     "clock_speed": 4.4,
     "single_bench_score": 4119,
-    "multi_bench_score": 50212
+    "multi_bench_score": 50213
   },
   "Intel Core i9-9990XE @ 4.00GHz": {
     "clock_speed": 4,
@@ -4107,7 +4107,7 @@
   "Intel Core i5-14600K": {
     "clock_speed": 3.5,
     "single_bench_score": 4267,
-    "multi_bench_score": 38449
+    "multi_bench_score": 38437
   },
   "AMD FX-4170 Quad-Core": {
     "clock_speed": 4.2,
@@ -4141,8 +4141,8 @@
   },
   "Intel Core i5-13600K": {
     "clock_speed": 3.5,
-    "single_bench_score": 4115,
-    "multi_bench_score": 37518
+    "single_bench_score": 4113,
+    "multi_bench_score": 37496
   },
   "Intel Pentium G840 @ 2.80GHz": {
     "clock_speed": 2.8,
@@ -4271,13 +4271,13 @@
   },
   "Intel Core i5-13400": {
     "clock_speed": 2.5,
-    "single_bench_score": 3575,
-    "multi_bench_score": 23848
+    "single_bench_score": 3576,
+    "multi_bench_score": 23857
   },
   "AMD Ryzen 5 9600X": {
     "clock_speed": 3.9,
     "single_bench_score": 4571,
-    "multi_bench_score": 30088
+    "multi_bench_score": 30091
   },
   "AMD Athlon 5350 APU": {
     "clock_speed": 2.05,
@@ -4366,8 +4366,8 @@
   },
   "Intel Core i7-14700": {
     "clock_speed": 2.1,
-    "single_bench_score": 4243,
-    "multi_bench_score": 40565
+    "single_bench_score": 4245,
+    "multi_bench_score": 40542
   },
   "AMD Athlon II X2 240e": {
     "clock_speed": 2.8,
@@ -4377,7 +4377,7 @@
   "Intel Core i5-13500": {
     "clock_speed": 2.5,
     "single_bench_score": 3858,
-    "multi_bench_score": 30892
+    "multi_bench_score": 30866
   },
   "Intel Atom D2550 @ 1.86GHz": {
     "clock_speed": 1.87,
@@ -4521,8 +4521,8 @@
   },
   "Intel Core i9-13900T": {
     "clock_speed": 1.1,
-    "single_bench_score": 4171,
-    "multi_bench_score": 42307
+    "single_bench_score": 4157,
+    "multi_bench_score": 42667
   },
   "Intel Atom D2700 @ 2.13GHz": {
     "clock_speed": 2.13,
@@ -4577,7 +4577,7 @@
   "AMD Ryzen Threadripper 7970X": {
     "clock_speed": 4,
     "single_bench_score": 4171,
-    "multi_bench_score": 99265
+    "multi_bench_score": 99260
   },
   "AMD Ryzen 5 PRO 8500G": {
     "clock_speed": 3.5,
@@ -4642,7 +4642,7 @@
   "Intel Core i5-14500": {
     "clock_speed": 2.6,
     "single_bench_score": 3951,
-    "multi_bench_score": 30922
+    "multi_bench_score": 30909
   },
   "AMD Athlon II X4 559": {
     "clock_speed": 3.4,
@@ -4861,8 +4861,8 @@
   },
   "Intel Core i9-12900F": {
     "clock_speed": 2.4,
-    "single_bench_score": 4011,
-    "multi_bench_score": 35755
+    "single_bench_score": 4009,
+    "multi_bench_score": 35756
   },
   "AMD Ryzen 5 2600X": {
     "clock_speed": 3.6,
@@ -4876,8 +4876,8 @@
   },
   "AMD Ryzen 7 8700F": {
     "clock_speed": 4.1,
-    "single_bench_score": 3874,
-    "multi_bench_score": 30993
+    "single_bench_score": 3873,
+    "multi_bench_score": 30963
   },
   "AMD Athlon II X4 655": {
     "clock_speed": 3.3,
@@ -4927,7 +4927,7 @@
   "AMD Ryzen 5 7400F": {
     "clock_speed": 3.7,
     "single_bench_score": 3676,
-    "multi_bench_score": 25514
+    "multi_bench_score": 25511
   },
   "AMD Athlon II X2 B28": {
     "clock_speed": 3.4,
@@ -4942,7 +4942,7 @@
   "AMD Ryzen 9 9900X": {
     "clock_speed": 4.4,
     "single_bench_score": 4677,
-    "multi_bench_score": 54411
+    "multi_bench_score": 54413
   },
   "Intel Pentium D 3.40GHz": {
     "clock_speed": 3.4,
@@ -4997,7 +4997,7 @@
   "Intel Core i7-12700KF": {
     "clock_speed": 3.6,
     "single_bench_score": 3980,
-    "multi_bench_score": 33966
+    "multi_bench_score": 33963
   },
   "Intel Celeron J3455 @ 1.50GHz": {
     "clock_speed": 1.5,
@@ -5047,7 +5047,7 @@
   "Intel Core i5-13400F": {
     "clock_speed": 2.5,
     "single_bench_score": 3632,
-    "multi_bench_score": 24942
+    "multi_bench_score": 24937
   },
   "AMD Athlon X4 830": {
     "clock_speed": 3,
@@ -5071,13 +5071,13 @@
   },
   "Intel Core i9-14900T": {
     "clock_speed": 1.1,
-    "single_bench_score": 4041,
-    "multi_bench_score": 37500
+    "single_bench_score": 4014,
+    "multi_bench_score": 36869
   },
   "Intel Core i7-11700K @ 3.60GHz": {
     "clock_speed": 3.6,
     "single_bench_score": 3386,
-    "multi_bench_score": 24342
+    "multi_bench_score": 24336
   },
   "Intel Core i5-6500 @ 3.20GHz": {
     "clock_speed": 3.2,
@@ -5111,8 +5111,8 @@
   },
   "Intel Core i7-12700F": {
     "clock_speed": 2.1,
-    "single_bench_score": 3842,
-    "multi_bench_score": 30215
+    "single_bench_score": 3841,
+    "multi_bench_score": 30199
   },
   "AMD Ryzen 5 8500G": {
     "clock_speed": 3.5,
@@ -5226,8 +5226,8 @@
   },
   "AMD Ryzen Threadripper 9970X": {
     "clock_speed": 4,
-    "single_bench_score": 4517,
-    "multi_bench_score": 107072
+    "single_bench_score": 4522,
+    "multi_bench_score": 107255
   },
   "Intel Core i5-2550K @ 3.40GHz": {
     "clock_speed": 3.4,
@@ -5326,8 +5326,8 @@
   },
   "AMD Ryzen 9 7900": {
     "clock_speed": 3.7,
-    "single_bench_score": 4122,
-    "multi_bench_score": 48044
+    "single_bench_score": 4123,
+    "multi_bench_score": 48047
   },
   "AMD Sempron 150": {
     "clock_speed": 2.9,
@@ -5376,8 +5376,8 @@
   },
   "AMD Ryzen 7 9800X3D": {
     "clock_speed": 4.7,
-    "single_bench_score": 4425,
-    "multi_bench_score": 39967
+    "single_bench_score": 4424,
+    "multi_bench_score": 39963
   },
   "Intel Pentium G3260T @ 2.90GHz": {
     "clock_speed": 2.9,
@@ -5491,8 +5491,8 @@
   },
   "AMD Ryzen 7 5700": {
     "clock_speed": 3.7,
-    "single_bench_score": 3293,
-    "multi_bench_score": 24240
+    "single_bench_score": 3294,
+    "multi_bench_score": 24249
   },
   "Intel Celeron G1840 @ 2.80GHz": {
     "clock_speed": 2.8,
@@ -5527,7 +5527,7 @@
   "AMD Ryzen 7 5800XT": {
     "clock_speed": 3.8,
     "single_bench_score": 3534,
-    "multi_bench_score": 28042
+    "multi_bench_score": 28040
   },
   "Intel Core 5 120": {
     "clock_speed": 2.5,
@@ -5551,8 +5551,8 @@
   },
   "Intel Core i7-11700KF @ 3.60GHz": {
     "clock_speed": 3.6,
-    "single_bench_score": 3367,
-    "multi_bench_score": 23822
+    "single_bench_score": 3366,
+    "multi_bench_score": 23820
   },
   "Intel Celeron J1800 @ 2.41GHz": {
     "clock_speed": 2.41,
@@ -5797,7 +5797,7 @@
   "Intel Core i7-13700F": {
     "clock_speed": 2.1,
     "single_bench_score": 4117,
-    "multi_bench_score": 37876
+    "multi_bench_score": 37861
   },
   "Intel Core i9-9900KF @ 3.60GHz": {
     "clock_speed": 3.6,
@@ -5981,23 +5981,23 @@
   },
   "Intel Core Ultra 5 250KF Plus": {
     "clock_speed": 4.2,
-    "single_bench_score": 4846,
-    "multi_bench_score": 51422
+    "single_bench_score": 4528,
+    "multi_bench_score": 48238
   },
   "Intel Core i5-13600": {
     "clock_speed": 2.7,
     "single_bench_score": 4047,
-    "multi_bench_score": 31410
+    "multi_bench_score": 31401
   },
   "Intel Core Ultra 5 225F": {
     "clock_speed": 3.3,
-    "single_bench_score": 4397,
-    "multi_bench_score": 31060
+    "single_bench_score": 4399,
+    "multi_bench_score": 31054
   },
   "AMD Ryzen 5 8400F": {
     "clock_speed": 4.2,
     "single_bench_score": 3687,
-    "multi_bench_score": 24422
+    "multi_bench_score": 24414
   },
   "AMD Ryzen 7 3700X": {
     "clock_speed": 3.6,
@@ -6022,7 +6022,7 @@
   "Intel Core Ultra 7 265KF": {
     "clock_speed": 3.9,
     "single_bench_score": 4927,
-    "multi_bench_score": 58563
+    "multi_bench_score": 58556
   },
   "Intel Core i9-7980XE @ 2.60GHz": {
     "clock_speed": 2.6,
@@ -6102,12 +6102,12 @@
   "Intel Core i7-12700K": {
     "clock_speed": 3.6,
     "single_bench_score": 4004,
-    "multi_bench_score": 34277
+    "multi_bench_score": 34272
   },
   "Intel Core Ultra 5 225": {
     "clock_speed": 3.3,
-    "single_bench_score": 4413,
-    "multi_bench_score": 30439
+    "single_bench_score": 4410,
+    "multi_bench_score": 30450
   },
   "AMD Phenom II X6 1055T": {
     "clock_speed": 2.8,
@@ -6186,8 +6186,8 @@
   },
   "Intel Core i7-14700T": {
     "clock_speed": 1.3,
-    "single_bench_score": 3921,
-    "multi_bench_score": 30869
+    "single_bench_score": 3928,
+    "multi_bench_score": 30886
   },
   "Intel Core i3-7101TE @ 3.40GHz": {
     "clock_speed": 3.4,
@@ -6286,8 +6286,8 @@
   },
   "Intel Core i7-14700K": {
     "clock_speed": 3.4,
-    "single_bench_score": 4458,
-    "multi_bench_score": 52003
+    "single_bench_score": 4456,
+    "multi_bench_score": 51977
   },
   "Intel Core i5-9400T @ 1.80GHz": {
     "clock_speed": 1.8,
@@ -6387,7 +6387,7 @@
   "Intel Core i9-14900KF": {
     "clock_speed": 3.2,
     "single_bench_score": 4691,
-    "multi_bench_score": 58204
+    "multi_bench_score": 58182
   },
   "AMD PRO A12-8870E": {
     "clock_speed": 2.9,
@@ -6481,8 +6481,8 @@
   },
   "Intel Core i7-13700": {
     "clock_speed": 2.1,
-    "single_bench_score": 4094,
-    "multi_bench_score": 36004
+    "single_bench_score": 4095,
+    "multi_bench_score": 35993
   },
   "AMD FX-6120 Six-Core": {
     "clock_speed": 3.5,
@@ -6511,8 +6511,8 @@
   },
   "Intel Core i5-14600KF": {
     "clock_speed": 3.5,
-    "single_bench_score": 4256,
-    "multi_bench_score": 38363
+    "single_bench_score": 4255,
+    "multi_bench_score": 38346
   },
   "Intel Core i3-2105 @ 3.10GHz": {
     "clock_speed": 3.1,
@@ -6536,8 +6536,8 @@
   },
   "Intel Core i9-12900": {
     "clock_speed": 2.4,
-    "single_bench_score": 4002,
-    "multi_bench_score": 33639
+    "single_bench_score": 4000,
+    "multi_bench_score": 33629
   },
   "AMD Athlon II X2 210e": {
     "clock_speed": 2.6,
@@ -6661,13 +6661,13 @@
   },
   "AMD Ryzen 7 5800": {
     "clock_speed": 3.4,
-    "single_bench_score": 3382,
-    "multi_bench_score": 25722
+    "single_bench_score": 3381,
+    "multi_bench_score": 25702
   },
   "AMD Ryzen 7 8700G": {
     "clock_speed": 4.2,
-    "single_bench_score": 3924,
-    "multi_bench_score": 31553
+    "single_bench_score": 3923,
+    "multi_bench_score": 31539
   },
   "AMD Ryzen 7 9700F": {
     "clock_speed": 3.8,
@@ -6676,8 +6676,8 @@
   },
   "AMD Ryzen 9 5900XT": {
     "clock_speed": 3.3,
-    "single_bench_score": 3478,
-    "multi_bench_score": 43883
+    "single_bench_score": 3476,
+    "multi_bench_score": 43888
   },
   "AMD Ryzen Threadripper 1900X": {
     "clock_speed": 3.8,
@@ -6741,7 +6741,7 @@
   },
   "Intel Core i5-12600KF": {
     "clock_speed": 3.6,
-    "single_bench_score": 3916,
+    "single_bench_score": 3917,
     "multi_bench_score": 27531
   },
   "Intel Core i5-2380P @ 3.10GHz": {
@@ -6772,7 +6772,7 @@
   "Intel Core Ultra 9 285K": {
     "clock_speed": 3.7,
     "single_bench_score": 5087,
-    "multi_bench_score": 67278
+    "multi_bench_score": 67262
   },
   "Intel Core2 Duo E7400 @ 2.80GHz": {
     "clock_speed": 2.8,
@@ -6798,5 +6798,1625 @@
     "clock_speed": 1.4,
     "single_bench_score": 272,
     "multi_bench_score": 193
+  },
+  "Intel Core i7-14650HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3849,
+    "multi_bench_score": 33644
+  },
+  "Intel Core i9-14901E": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4354,
+    "multi_bench_score": 30298
+  },
+  "AMD EPYC 4464P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4146,
+    "multi_bench_score": 47514
+  },
+  "Apple M1 Ultra 20 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3860,
+    "multi_bench_score": 41383
+  },
+  "AMD Ryzen AI Max+ 395": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4153,
+    "multi_bench_score": 55015
+  },
+  "Apple M2 Ultra 24 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4208,
+    "multi_bench_score": 50939
+  },
+  "Intel Xeon w9-3575X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3756,
+    "multi_bench_score": 84959
+  },
+  "Intel Core 5 221E": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4147,
+    "multi_bench_score": 30510
+  },
+  "Intel Core i5-13400E": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3716,
+    "multi_bench_score": 27000
+  },
+  "Intel Core i9-14900HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4183,
+    "multi_bench_score": 43969
+  },
+  "Intel Xeon w9-3595X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3706,
+    "multi_bench_score": 98476
+  },
+  "Intel Xeon 678X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3780,
+    "multi_bench_score": 97699
+  },
+  "Intel Core 9 273PQE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4573,
+    "multi_bench_score": 46107
+  },
+  "AMD Ryzen Z2": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3594,
+    "multi_bench_score": 25744
+  },
+  "Intel Xeon 638": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3670,
+    "multi_bench_score": 55651
+  },
+  "AMD EPYC 4585PX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4536,
+    "multi_bench_score": 68955
+  },
+  "Intel Core 5 223PE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4219,
+    "multi_bench_score": 31124
+  },
+  "Intel Xeon 6353P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4226,
+    "multi_bench_score": 25951
+  },
+  "Intel Xeon Gold 6534": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3451,
+    "multi_bench_score": 29912
+  },
+  "AMD Ryzen 9 8945HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3917,
+    "multi_bench_score": 51560
+  },
+  "Intel Xeon Gold 5420+": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3347,
+    "multi_bench_score": 57753
+  },
+  "Intel Xeon Gold 6444Y": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3282,
+    "multi_bench_score": 49303
+  },
+  "AMD EPYC 4244P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3710,
+    "multi_bench_score": 26797
+  },
+  "Intel Core i5-13600HE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3527,
+    "multi_bench_score": 23483
+  },
+  "AMD Ryzen 7 255": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3732,
+    "multi_bench_score": 29051
+  },
+  "Apple M5 Pro 15 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 5930,
+    "multi_bench_score": 49221
+  },
+  "AMD Ryzen 7 8845HS": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3728,
+    "multi_bench_score": 28367
+  },
+  "AMD EPYC 4564P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4292,
+    "multi_bench_score": 64443
+  },
+  "Apple M2 Pro 12 Core 3480 MHz": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4088,
+    "multi_bench_score": 26692
+  },
+  "Intel Core i7-13850HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3728,
+    "multi_bench_score": 36262
+  },
+  "AMD EPYC 9655": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3847,
+    "multi_bench_score": 156110
+  },
+  "Intel Xeon Platinum 8470 @2.00GHz": {
+    "clock_speed": 2.0,
+    "single_bench_score": 3153,
+    "multi_bench_score": 89850
+  },
+  "AMD Ryzen Threadripper PRO 5975WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3319,
+    "multi_bench_score": 74871
+  },
+  "AMD Ryzen Threadripper PRO 9995WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4544,
+    "multi_bench_score": 170935
+  },
+  "AMD EPYC 9375F": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3762,
+    "multi_bench_score": 95768
+  },
+  "AMD Ryzen 9 7940HS": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3854,
+    "multi_bench_score": 29848
+  },
+  "AMD EPYC 9474F": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3155,
+    "multi_bench_score": 102255
+  },
+  "AMD Ryzen 7 H 260": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3669,
+    "multi_bench_score": 28197
+  },
+  "Intel Xeon Gold 5520+": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3216,
+    "multi_bench_score": 61227
+  },
+  "AMD Ryzen Threadripper PRO 7975WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3983,
+    "multi_bench_score": 95489
+  },
+  "Intel Core Ultra X7 358H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4132,
+    "multi_bench_score": 33800
+  },
+  "Intel Core Ultra 7 366H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4022,
+    "multi_bench_score": 33804
+  },
+  "AMD EPYC 9275F": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3810,
+    "multi_bench_score": 84620
+  },
+  "AMD EPYC 9355P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3747,
+    "multi_bench_score": 96603
+  },
+  "AMD Ryzen 7 7840H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3573,
+    "multi_bench_score": 27189
+  },
+  "Intel Core i7-12800H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3372,
+    "multi_bench_score": 23817
+  },
+  "Intel Xeon w7-3445": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3281,
+    "multi_bench_score": 48978
+  },
+  "AMD Ryzen 9 7940H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3811,
+    "multi_bench_score": 28388
+  },
+  "AMD Ryzen AI Max 390": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4026,
+    "multi_bench_score": 41696
+  },
+  "Intel Core i7-13700E": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3210,
+    "multi_bench_score": 33298
+  },
+  "AMD Ryzen AI Max+ Pro 395": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4082,
+    "multi_bench_score": 51567
+  },
+  "AMD EPYC 4545P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4475,
+    "multi_bench_score": 54296
+  },
+  "Intel Core Ultra 5 225H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4256,
+    "multi_bench_score": 28302
+  },
+  "Intel Core i9-13900HK": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3752,
+    "multi_bench_score": 26818
+  },
+  "Intel Core i7-13650HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3746,
+    "multi_bench_score": 30215
+  },
+  "Intel Core i9-12900HK": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3525,
+    "multi_bench_score": 25173
+  },
+  "AMD Ryzen Threadripper PRO 7945WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4076,
+    "multi_bench_score": 49673
+  },
+  "AMD EPYC 9455 Emb": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3783,
+    "multi_bench_score": 110697
+  },
+  "Intel Xeon w5-2455X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3386,
+    "multi_bench_score": 37145
+  },
+  "AMD EPYC 9755": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3503,
+    "multi_bench_score": 166328
+  },
+  "AMD Ryzen 7 7840U": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3540,
+    "multi_bench_score": 24386
+  },
+  "Intel Xeon Gold 6442Y": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3268,
+    "multi_bench_score": 58534
+  },
+  "Virtual @ 4.03GHz": {
+    "clock_speed": 4.03,
+    "single_bench_score": 4317,
+    "multi_bench_score": 29102
+  },
+  "AMD Ryzen 7 PRO 8840HS": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3691,
+    "multi_bench_score": 26654
+  },
+  "AMD EPYC 4465P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4575,
+    "multi_bench_score": 49871
+  },
+  "Qualcomm Snapdragon X Elite - X1E-84-100": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3833,
+    "multi_bench_score": 24809
+  },
+  "AMD EPYC 9565": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3696,
+    "multi_bench_score": 135221
+  },
+  "Intel Core Ultra 5 336H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3701,
+    "multi_bench_score": 26567
+  },
+  "Intel Xeon 6349P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4528,
+    "multi_bench_score": 25793
+  },
+  "AMD EPYC 9575F": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4173,
+    "multi_bench_score": 147998
+  },
+  "Intel Core Ultra X7 368H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4027,
+    "multi_bench_score": 33246
+  },
+  "AMD EPYC 4364P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3628,
+    "multi_bench_score": 34386
+  },
+  "AMD Ryzen 9 8945HS": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3822,
+    "multi_bench_score": 29361
+  },
+  "AMD Ryzen 7 8845H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3512,
+    "multi_bench_score": 26629
+  },
+  "Intel Xeon Gold 6434": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3228,
+    "multi_bench_score": 28012
+  },
+  "AMD Ryzen 7 7840HS": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3720,
+    "multi_bench_score": 28381
+  },
+  "Snapdragon X2 Elite Extreme - X2E94100 - Qualc": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4679,
+    "multi_bench_score": 45346
+  },
+  "AMD Ryzen Threadripper PRO 5965WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3317,
+    "multi_bench_score": 65886
+  },
+  "AMD EPYC 4345P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4408,
+    "multi_bench_score": 36123
+  },
+  "AMD Ryzen AI 7 H 350": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3740,
+    "multi_bench_score": 26253
+  },
+  "AMD EPYC 4245P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4575,
+    "multi_bench_score": 31075
+  },
+  "AMD Ryzen AI 7 PRO 450": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3975,
+    "multi_bench_score": 25985
+  },
+  "AMD Ryzen 7 H 255": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3703,
+    "multi_bench_score": 28694
+  },
+  "Embedded Ryzen V4728X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4015,
+    "multi_bench_score": 24000
+  },
+  "AMD Ryzen 7 PRO 7840U": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3674,
+    "multi_bench_score": 24371
+  },
+  "Intel Xeon Gold 6448H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3296,
+    "multi_bench_score": 70280
+  },
+  "AMD Ryzen 9 8940HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3879,
+    "multi_bench_score": 50182
+  },
+  "Intel Core 7 251TE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3568,
+    "multi_bench_score": 30022
+  },
+  "Intel Core 5 211E": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4006,
+    "multi_bench_score": 23833
+  },
+  "AMD Ryzen AI Max Pro 390": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3962,
+    "multi_bench_score": 42794
+  },
+  "Intel Xeon w5-2545": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3573,
+    "multi_bench_score": 40988
+  },
+  "Intel Core i7-13700H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3556,
+    "multi_bench_score": 25936
+  },
+  "AMD Ryzen 9 8945H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3880,
+    "multi_bench_score": 29936
+  },
+  "Intel Core Ultra X9 388H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4287,
+    "multi_bench_score": 36475
+  },
+  "Apple M5 Max 18 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 5947,
+    "multi_bench_score": 57701
+  },
+  "Apple M4 10 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4507,
+    "multi_bench_score": 23648
+  },
+  "Intel Core i7-13800H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3530,
+    "multi_bench_score": 26220
+  },
+  "Intel Core 7 230H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4024,
+    "multi_bench_score": 24533
+  },
+  "Intel Core 7 240H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3810,
+    "multi_bench_score": 24305
+  },
+  "Intel Xeon E-2388G @ 3.20GHz": {
+    "clock_speed": 3.2,
+    "single_bench_score": 3399,
+    "multi_bench_score": 23458
+  },
+  "Intel Core Ultra 7 251HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4666,
+    "multi_bench_score": 48713
+  },
+  "AMD Ryzen Threadripper PRO 9945WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4568,
+    "multi_bench_score": 55939
+  },
+  "Intel Core i7-12850HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3656,
+    "multi_bench_score": 30564
+  },
+  "Intel Core 9 273PE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3650,
+    "multi_bench_score": 36810
+  },
+  "Intel Xeon w9-3495X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3430,
+    "multi_bench_score": 90454
+  },
+  "Intel Core i7-13645HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3587,
+    "multi_bench_score": 28191
+  },
+  "AMD Ryzen AI 7 PRO 350": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3881,
+    "multi_bench_score": 24101
+  },
+  "AMD EPYC 9015": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3265,
+    "multi_bench_score": 30689
+  },
+  "AMD Ryzen 9 9955HX3D": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4513,
+    "multi_bench_score": 62732
+  },
+  "AMD EPYC 9274F": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3373,
+    "multi_bench_score": 73982
+  },
+  "AMD Ryzen Threadripper PRO 7965WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4011,
+    "multi_bench_score": 82190
+  },
+  "Intel Xeon w7-3555": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3549,
+    "multi_bench_score": 67754
+  },
+  "Intel Core 7 253PE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3955,
+    "multi_bench_score": 29271
+  },
+  "Intel Xeon 676X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3967,
+    "multi_bench_score": 90312
+  },
+  "AMD EPYC 9535": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3720,
+    "multi_bench_score": 114528
+  },
+  "Intel Core 5 211EF": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3884,
+    "multi_bench_score": 23988
+  },
+  "Intel Core i7-13700HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3800,
+    "multi_bench_score": 31784
+  },
+  "AMD Ryzen 7 8745H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3682,
+    "multi_bench_score": 29152
+  },
+  "Apple M3 Ultra 32 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 5054,
+    "multi_bench_score": 72912
+  },
+  "Intel Xeon w7-2595X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3723,
+    "multi_bench_score": 64628
+  },
+  "Intel Xeon E-2468": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4003,
+    "multi_bench_score": 26652
+  },
+  "Intel Core i5-14450HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3664,
+    "multi_bench_score": 23777
+  },
+  "Apple M5 Pro 18 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 5933,
+    "multi_bench_score": 57294
+  },
+  "Intel Xeon w7-2575X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3300,
+    "multi_bench_score": 52091
+  },
+  "AMD Ryzen AI Max 385": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4051,
+    "multi_bench_score": 33642
+  },
+  "AMD Ryzen 7 PRO 8840U": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3654,
+    "multi_bench_score": 23954
+  },
+  "Apple M4 Pro 12 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4560,
+    "multi_bench_score": 32712
+  },
+  "AMD Ryzen 7 8840HS": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3590,
+    "multi_bench_score": 24809
+  },
+  "AMD Ryzen 7 PRO 8845HS": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3786,
+    "multi_bench_score": 28731
+  },
+  "AMD Ryzen 5 PRO 8645HS": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3858,
+    "multi_bench_score": 23569
+  },
+  "Intel Xeon Platinum 8558P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3236,
+    "multi_bench_score": 91879
+  },
+  "Intel Core i9-12900H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3656,
+    "multi_bench_score": 26714
+  },
+  "AMD Ryzen AI 9 HX PRO 470": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3927,
+    "multi_bench_score": 34436
+  },
+  "AMD Ryzen Threadripper PRO 5955WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3317,
+    "multi_bench_score": 48822
+  },
+  "AMD Ryzen 9 9850HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4461,
+    "multi_bench_score": 51722
+  },
+  "AMD Ryzen 5 PRO 7645": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3954,
+    "multi_bench_score": 27564
+  },
+  "AMD EPYC 9965": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3176,
+    "multi_bench_score": 160542
+  },
+  "Intel Xeon 6357P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4168,
+    "multi_bench_score": 30401
+  },
+  "Intel Xeon 6781P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3152,
+    "multi_bench_score": 117946
+  },
+  "Intel Xeon w5-3525": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3302,
+    "multi_bench_score": 45703
+  },
+  "Intel Xeon 696X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3742,
+    "multi_bench_score": 104974
+  },
+  "AMD Ryzen AI 9 365": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3864,
+    "multi_bench_score": 30348
+  },
+  "Intel Xeon W-1390 @ 2.80GHz": {
+    "clock_speed": 2.8,
+    "single_bench_score": 3399,
+    "multi_bench_score": 23427
+  },
+  "Intel Core Ultra 7 255H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4314,
+    "multi_bench_score": 30747
+  },
+  "Intel Core 5 213PE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3807,
+    "multi_bench_score": 27488
+  },
+  "Intel Core Ultra 9 185H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3665,
+    "multi_bench_score": 29091
+  },
+  "AMD Ryzen 9 7845HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3913,
+    "multi_bench_score": 44651
+  },
+  "AMD Ryzen 7 7745HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3927,
+    "multi_bench_score": 32362
+  },
+  "Intel Core i9-13905H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3735,
+    "multi_bench_score": 29724
+  },
+  "Intel Core Ultra 7 265HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4545,
+    "multi_bench_score": 48541
+  },
+  "AMD Ryzen AI Max Pro 385": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3989,
+    "multi_bench_score": 32026
+  },
+  "Intel Core Ultra 5 235HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4680,
+    "multi_bench_score": 40759
+  },
+  "Apple M4 Pro 14 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4555,
+    "multi_bench_score": 38020
+  },
+  "AMD Ryzen Z2 Extreme": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3964,
+    "multi_bench_score": 23649
+  },
+  "AMD Ryzen AI 9 HX 375": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3995,
+    "multi_bench_score": 35376
+  },
+  "AMD Ryzen AI Max Pro 380": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4004,
+    "multi_bench_score": 24546
+  },
+  "AMD Ryzen 7 PRO 7840HS": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3618,
+    "multi_bench_score": 26807
+  },
+  "Intel Core 7 253PQE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4389,
+    "multi_bench_score": 41656
+  },
+  "Intel Xeon 6975P-C": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3293,
+    "multi_bench_score": 28252
+  },
+  "Intel Core i5-13400EF": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3809,
+    "multi_bench_score": 26594
+  },
+  "Intel Core Ultra 5 235H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4341,
+    "multi_bench_score": 29964
+  },
+  "AMD Ryzen 7 PRO 7745": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4117,
+    "multi_bench_score": 34826
+  },
+  "Qualcomm Snapdragon X Elite - X1E001DE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4171,
+    "multi_bench_score": 31863
+  },
+  "Intel Core 9 273PTE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3433,
+    "multi_bench_score": 24054
+  },
+  "AMD EPYC 9845": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3144,
+    "multi_bench_score": 152985
+  },
+  "Intel Xeon Platinum 8570": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3256,
+    "multi_bench_score": 93722
+  },
+  "AMD Ryzen AI 9 HX PRO 370": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3996,
+    "multi_bench_score": 33247
+  },
+  "AMD Ryzen 9 PRO 7940HS": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3721,
+    "multi_bench_score": 27096
+  },
+  "Intel Xeon Gold 6542Y": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3087,
+    "multi_bench_score": 60144
+  },
+  "AMD Ryzen Threadripper PRO 5995WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3217,
+    "multi_bench_score": 95094
+  },
+  "Intel Xeon E-2488": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4309,
+    "multi_bench_score": 31413
+  },
+  "AMD Ryzen 9 6980HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3587,
+    "multi_bench_score": 26817
+  },
+  "AMD RYZEN AI MAX+ 392": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3897,
+    "multi_bench_score": 44617
+  },
+  "Apple M4 Max 14 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4634,
+    "multi_bench_score": 38365
+  },
+  "ARM - 5 Core 2808 MHz": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3685,
+    "multi_bench_score": 25147
+  },
+  "Apple M2 Max 12 Core 3680 MHz": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4140,
+    "multi_bench_score": 26868
+  },
+  "Intel Core i5-13500HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3628,
+    "multi_bench_score": 27635
+  },
+  "Intel Core Ultra 9 290HX Plus": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4951,
+    "multi_bench_score": 60182
+  },
+  "Intel Xeon 6747P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3236,
+    "multi_bench_score": 101685
+  },
+  "AMD EPYC 9555 Emb": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3757,
+    "multi_bench_score": 133832
+  },
+  "Intel Xeon 6745P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3450,
+    "multi_bench_score": 84210
+  },
+  "Intel Xeon w5-2555X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3600,
+    "multi_bench_score": 47193
+  },
+  "AMD Ryzen 7 250 with Radeon 780M": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3740,
+    "multi_bench_score": 26355
+  },
+  "AMD Ryzen AI 9 H 465": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4042,
+    "multi_bench_score": 32465
+  },
+  "Intel Core Ultra 7 155H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3417,
+    "multi_bench_score": 24556
+  },
+  "Intel Core i9-13950HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3852,
+    "multi_bench_score": 40646
+  },
+  "Apple M3 Pro 11 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4749,
+    "multi_bench_score": 24812
+  },
+  "Intel Xeon Gold 5415+": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3128,
+    "multi_bench_score": 24906
+  },
+  "Intel Xeon 6724P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3279,
+    "multi_bench_score": 51345
+  },
+  "Intel Xeon Gold 6434H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3353,
+    "multi_bench_score": 29606
+  },
+  "AMD Ryzen Z1 Extreme": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3533,
+    "multi_bench_score": 24634
+  },
+  "AMD Ryzen 9 6900HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3373,
+    "multi_bench_score": 24112
+  },
+  "AMD Ryzen 9 9955HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4391,
+    "multi_bench_score": 56064
+  },
+  "Ryzen AI Embedded P164": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3904,
+    "multi_bench_score": 26440
+  },
+  "AMD Ryzen 7 8745HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3864,
+    "multi_bench_score": 31525
+  },
+  "Intel Xeon w3-2535": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3447,
+    "multi_bench_score": 33517
+  },
+  "Apple M3 Pro 12 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4240,
+    "multi_bench_score": 23993
+  },
+  "Intel Xeon w5-3435X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3301,
+    "multi_bench_score": 44520
+  },
+  "AMD Ryzen Threadripper PRO 5945WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3348,
+    "multi_bench_score": 40161
+  },
+  "Virtual @ 4.45GHz": {
+    "clock_speed": 4.45,
+    "single_bench_score": 4038,
+    "multi_bench_score": 25028
+  },
+  "Intel Core i9-13900HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4009,
+    "multi_bench_score": 41756
+  },
+  "AMD Ryzen AI 9 H 365": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3795,
+    "multi_bench_score": 30674
+  },
+  "AMD Ryzen AI 7 450": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4092,
+    "multi_bench_score": 27900
+  },
+  "Intel Xeon 658X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3560,
+    "multi_bench_score": 70348
+  },
+  "AMD Ryzen 9 PRO 8945HS": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3932,
+    "multi_bench_score": 30465
+  },
+  "AMD Ryzen 9 270": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3784,
+    "multi_bench_score": 29129
+  },
+  "Intel Xeon w3-2525": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3426,
+    "multi_bench_score": 28373
+  },
+  "AMD Ryzen 7 8840HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3983,
+    "multi_bench_score": 43117
+  },
+  "Intel Xeon w7-2475X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3555,
+    "multi_bench_score": 52816
+  },
+  "Intel Core 9 270H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3954,
+    "multi_bench_score": 28537
+  },
+  "Intel Xeon 636": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3937,
+    "multi_bench_score": 44421
+  },
+  "Intel Xeon w7-3455": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3076,
+    "multi_bench_score": 54536
+  },
+  "AMD EPYC 9175F": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4256,
+    "multi_bench_score": 67634
+  },
+  "Intel Core i7-12800HE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3658,
+    "multi_bench_score": 26307
+  },
+  "Intel Xeon 6741P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3195,
+    "multi_bench_score": 100660
+  },
+  "Intel Xeon 6517P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3307,
+    "multi_bench_score": 49768
+  },
+  "Intel Core i7-14701E": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4297,
+    "multi_bench_score": 26103
+  },
+  "Intel Xeon 674X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4006,
+    "multi_bench_score": 84536
+  },
+  "AMD Ryzen Threadripper PRO 7985WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3960,
+    "multi_bench_score": 131837
+  },
+  "AMD Ryzen Threadripper PRO 9965WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4544,
+    "multi_bench_score": 92678
+  },
+  "Intel Xeon E-2478": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3895,
+    "multi_bench_score": 27880
+  },
+  "Intel Xeon 6520P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3356,
+    "multi_bench_score": 62936
+  },
+  "AMD EPYC 9B45": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3540,
+    "multi_bench_score": 158790
+  },
+  "Intel Xeon w7-3465X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3207,
+    "multi_bench_score": 61626
+  },
+  "AMD EPYC 4565P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4734,
+    "multi_bench_score": 64067
+  },
+  "Intel Xeon 6505P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3187,
+    "multi_bench_score": 38456
+  },
+  "Intel Xeon w9-3475X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3348,
+    "multi_bench_score": 64595
+  },
+  "Intel Xeon 6960P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3287,
+    "multi_bench_score": 130659
+  },
+  "Intel Core i5-12600HL": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3318,
+    "multi_bench_score": 23615
+  },
+  "Intel Core 7 253PTE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3794,
+    "multi_bench_score": 25031
+  },
+  "Intel Core i5-13600HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3653,
+    "multi_bench_score": 27495
+  },
+  "AMD EPYC 9475F": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3779,
+    "multi_bench_score": 122476
+  },
+  "Intel Core Ultra 5 245HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4488,
+    "multi_bench_score": 38105
+  },
+  "Apple M3 Max 16 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4784,
+    "multi_bench_score": 41257
+  },
+  "Intel Xeon Gold 6438Y+": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3106,
+    "multi_bench_score": 62660
+  },
+  "Intel Xeon w5-2445": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3356,
+    "multi_bench_score": 32213
+  },
+  "AMD EPYC 4484PX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4119,
+    "multi_bench_score": 50547
+  },
+  "Intel Core i5-12600HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3535,
+    "multi_bench_score": 24332
+  },
+  "Intel Core i5-13450HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3535,
+    "multi_bench_score": 24606
+  },
+  "Intel Core Ultra 7 270HX Plus": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4908,
+    "multi_bench_score": 56088
+  },
+  "AMD EPYC 4584PX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3856,
+    "multi_bench_score": 59128
+  },
+  "AMD Ryzen 7 7700G": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4021,
+    "multi_bench_score": 32432
+  },
+  "AMD Ryzen 9 PRO 7945": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4175,
+    "multi_bench_score": 47065
+  },
+  "Intel Core Ultra 7 265H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4345,
+    "multi_bench_score": 34143
+  },
+  "Intel Core Ultra 5 338H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4216,
+    "multi_bench_score": 28972
+  },
+  "Intel Core 7 250H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4148,
+    "multi_bench_score": 27030
+  },
+  "AMD EPYC 9374F": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3135,
+    "multi_bench_score": 82009
+  },
+  "AMD Ryzen 9 PRO 6950H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3330,
+    "multi_bench_score": 23832
+  },
+  "Apple M3 Ultra 28 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 5131,
+    "multi_bench_score": 68958
+  },
+  "AMD Ryzen AI 9 HX 370": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3951,
+    "multi_bench_score": 35042
+  },
+  "Intel Xeon 6521P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3238,
+    "multi_bench_score": 66657
+  },
+  "Intel Xeon w7-3565X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3364,
+    "multi_bench_score": 71140
+  },
+  "Intel Xeon W-1390P @ 3.50GHz": {
+    "clock_speed": 3.5,
+    "single_bench_score": 3549,
+    "multi_bench_score": 24814
+  },
+  "AMD Ryzen Threadripper PRO 7995WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3830,
+    "multi_bench_score": 141050
+  },
+  "AMD Ryzen 7 H 250": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3679,
+    "multi_bench_score": 24508
+  },
+  "Apple M5 10 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 5750,
+    "multi_bench_score": 26992
+  },
+  "Intel Core i5-14500HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3611,
+    "multi_bench_score": 28557
+  },
+  "Intel Core i7-12800HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3684,
+    "multi_bench_score": 31240
+  },
+  "Intel Core Ultra 9 275HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4717,
+    "multi_bench_score": 55852
+  },
+  "Intel Core i9-12900E": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3673,
+    "multi_bench_score": 28170
+  },
+  "Intel Xeon w7-3545": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3452,
+    "multi_bench_score": 59344
+  },
+  "Intel Xeon Silver 4510": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3110,
+    "multi_bench_score": 32144
+  },
+  "Intel Core i5-13500E": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3444,
+    "multi_bench_score": 26516
+  },
+  "Intel Xeon Gold 6548Y+": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3165,
+    "multi_bench_score": 73387
+  },
+  "Intel Core i9-13980HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4213,
+    "multi_bench_score": 45484
+  },
+  "Intel Core 7 245HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4681,
+    "multi_bench_score": 41358
+  },
+  "AMD Ryzen 7 8745HS": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3725,
+    "multi_bench_score": 28657
+  },
+  "Intel Core Ultra 7 165H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3478,
+    "multi_bench_score": 25855
+  },
+  "Apple M4 Max 16 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4587,
+    "multi_bench_score": 43897
+  },
+  "Intel Xeon 654": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3766,
+    "multi_bench_score": 61351
+  },
+  "AMD Ryzen Threadripper PRO 9975WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4419,
+    "multi_bench_score": 105102
+  },
+  "AMD Ryzen Threadripper PRO 9985WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4480,
+    "multi_bench_score": 151322
+  },
+  "Intel Xeon w5-2565X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3600,
+    "multi_bench_score": 52114
+  },
+  "AMD Ryzen AI 9 HX 470": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4142,
+    "multi_bench_score": 37302
+  },
+  "Intel Xeon w3-2435": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3306,
+    "multi_bench_score": 26129
+  },
+  "Intel Core i9-12950HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3761,
+    "multi_bench_score": 31153
+  },
+  "AMD EPYC 9655P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3849,
+    "multi_bench_score": 160490
+  },
+  "AMD EPYC 72F3": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3070,
+    "multi_bench_score": 27252
+  },
+  "AMD Ryzen 9 7945HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4023,
+    "multi_bench_score": 54068
+  },
+  "Intel Xeon Gold 6544Y": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3265,
+    "multi_bench_score": 49944
+  },
+  "AMD EPYC 9135": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3672,
+    "multi_bench_score": 56948
+  },
+  "Snapdragon X2 Elite - X2E90100 - Qualcomm Oryo": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4737,
+    "multi_bench_score": 34732
+  },
+  "Intel Xeon w5-3535X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3602,
+    "multi_bench_score": 54088
+  },
+  "Intel Core i9-13900E": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3361,
+    "multi_bench_score": 40326
+  },
+  "Intel Core Ultra 7 255HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4572,
+    "multi_bench_score": 48556
+  },
+  "Intel Core Ultra 9 386H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4204,
+    "multi_bench_score": 35246
+  },
+  "Snapdragon X2 Elite - X2E88100 - Qualcomm Oryo": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4770,
+    "multi_bench_score": 38636
+  },
+  "Intel Core Ultra 9 285HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4623,
+    "multi_bench_score": 57218
+  },
+  "Intel Xeon 6507P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3643,
+    "multi_bench_score": 31233
+  },
+  "Intel Core 5 213PTE": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3718,
+    "multi_bench_score": 25590
+  },
+  "AMD EPYC 9115": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3360,
+    "multi_bench_score": 48936
+  },
+  "Intel Xeon w7-2495X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3447,
+    "multi_bench_score": 57470
+  },
+  "Intel Core i7-14700HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3951,
+    "multi_bench_score": 36688
+  },
+  "AMD EPYC 4344P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3526,
+    "multi_bench_score": 33325
+  },
+  "Intel Xeon Platinum 8488C": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3113,
+    "multi_bench_score": 88667
+  },
+  "Intel Xeon w5-3425": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3333,
+    "multi_bench_score": 36421
+  },
+  "Intel Core Ultra 9 285H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4427,
+    "multi_bench_score": 34265
+  },
+  "AMD Ryzen 7 PRO 8840H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3909,
+    "multi_bench_score": 27994
+  },
+  "AMD EPYC 9555P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3756,
+    "multi_bench_score": 135217
+  },
+  "Intel Core i9-12900HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3748,
+    "multi_bench_score": 33034
+  },
+  "AMD Ryzen AI 9 465": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3844,
+    "multi_bench_score": 29433
+  },
+  "AMD EPYC 9455P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3745,
+    "multi_bench_score": 116927
+  },
+  "Intel Core i9-13900H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3704,
+    "multi_bench_score": 27143
+  },
+  "AMD EPYC 9255": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3655,
+    "multi_bench_score": 76580
+  },
+  "Intel Xeon W-1370P @ 3.60GHz": {
+    "clock_speed": 3.6,
+    "single_bench_score": 3478,
+    "multi_bench_score": 23530
+  },
+  "AMD Ryzen 7 260": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3746,
+    "multi_bench_score": 28189
+  },
+  "AMD EPYC Embedded 9755": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3508,
+    "multi_bench_score": 164010
+  },
+  "Intel Core i7-13705H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3524,
+    "multi_bench_score": 25544
+  },
+  "AMD Ryzen 9 7940HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3944,
+    "multi_bench_score": 53299
+  },
+  "Intel Core i7-12700E": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3633,
+    "multi_bench_score": 28093
+  },
+  "AMD Ryzen 5 7645HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3881,
+    "multi_bench_score": 26252
+  },
+  "AMD Ryzen Threadripper PRO 9955WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4548,
+    "multi_bench_score": 67111
+  },
+  "Intel Arc G3 Extreme": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4288,
+    "multi_bench_score": 29622
+  },
+  "Intel Xeon w5-2465X": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3441,
+    "multi_bench_score": 45062
+  },
+  "AMD Ryzen AI 7 350": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3837,
+    "multi_bench_score": 24934
+  },
+  "AMD Ryzen Threadripper PRO 7955WX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4085,
+    "multi_bench_score": 60031
+  },
+  "Intel Core i7-12700H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3490,
+    "multi_bench_score": 25081
+  },
+  "Intel Core Ultra 7 356H": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4101,
+    "multi_bench_score": 34195
+  },
+  "AMD Ryzen AI 9 HX PRO 375": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3911,
+    "multi_bench_score": 33613
+  },
+  "AMD Ryzen 9 7945HX3D": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4066,
+    "multi_bench_score": 57729
+  },
+  "AMD Ryzen 7 7840HX": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3672,
+    "multi_bench_score": 41365
+  },
+  "Apple M3 Max 14 Core": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4752,
+    "multi_bench_score": 36207
+  },
+  "AMD EPYC 9174F": {
+    "clock_speed": 3.0,
+    "single_bench_score": 3307,
+    "multi_bench_score": 54206
+  },
+  "Intel Xeon 6369P": {
+    "clock_speed": 3.0,
+    "single_bench_score": 4305,
+    "multi_bench_score": 30315
   }
 }

@@ -142,9 +142,9 @@
   "NVIDIA GeForce RTX 5090 D": {
     "vram": 32,
     "gpu_bench_score": 14475,
-    "gpu_time_spy": 50663,
-    "gpu_time_spy_extreme": 26055,
-    "gpu_fire_strike_extreme": 40530
+    "gpu_time_spy": 60231,
+    "gpu_time_spy_extreme": 32316,
+    "gpu_fire_strike_extreme": 66067
   },
   "AMD Radeon RX 9070 XT": {
     "vram": 12,
@@ -800,16 +800,16 @@
   "NVIDIA RTX PRO 6000 Blackwell": {
     "vram": 16,
     "gpu_bench_score": 15797,
-    "gpu_time_spy": 55290,
-    "gpu_time_spy_extreme": 28435,
-    "gpu_fire_strike_extreme": 44232
+    "gpu_time_spy": 60670,
+    "gpu_time_spy_extreme": 33596,
+    "gpu_fire_strike_extreme": 57155
   },
   "NVIDIA RTX 5090 D v2": {
     "vram": 32,
     "gpu_bench_score": 14301,
-    "gpu_time_spy": 50054,
-    "gpu_time_spy_extreme": 25742,
-    "gpu_fire_strike_extreme": 40043
+    "gpu_time_spy": 56261,
+    "gpu_time_spy_extreme": 30596,
+    "gpu_fire_strike_extreme": 58033
   },
   "AMD Radeon RX 9060 XT 16 GB": {
     "vram": 16,
